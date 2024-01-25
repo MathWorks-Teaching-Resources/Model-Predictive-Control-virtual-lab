@@ -22,7 +22,7 @@ The lab solutions are available upon instructor request. If you would like to re
 To get started with the MPC virtual lab, double-click the MPCVirtualLab.prj file inside MATLAB™. Then open up the MPC_virtual_lab.mlx live script, where you'll find the instructions for running the interactive exercises to complete the virtual lab.
 
 ## Suggested Prework
-- [MPC Tech Talks](https://www.mathworks.com/videos/series/understanding-model-predictive-control.html) help students gain insights into why engineers use Model Predictive Control, how they work, and the difference between linear and non-linear Model Predictive Control.
+- [MPC Tech Talks](https://www.mathworks.com/videos/series/understanding-model-predictive-control.html) – help students gain insights into why engineers use Model Predictive Control, how they work, and the difference between linear and non-linear Model Predictive Control.
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial that teaches the essentials of MATLAB.
 - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) – a free three-hour introductory tutorial that teaches the essentials of Simulink.
 
