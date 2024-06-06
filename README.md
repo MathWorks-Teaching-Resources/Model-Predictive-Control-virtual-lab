@@ -6,7 +6,7 @@
 
 This virtual lab contains interactive exercises to study the design of linear and adaptive model predictive controllers (MPCs) for implementing a vehicle steering control system.
 
-The lab solutions are available upon instructor request. If you would like to request solutions, find an issue, or have a suggestion, contact us [here](https://forms.office.com/r/00RBNtyyj2).
+The lab solutions are available upon instructor request. If you would like to request solutions, find an issue, or have a suggestion, contact us [here](https://www.mathworks.com/campaigns/surveys/mpc-virtual-lab-solution-request.html).
 
 <img src="MPC_ClosedLoop.png" width="400">
 
@@ -42,6 +42,6 @@ Requires MATLAB release R2023b or newer
 ## License
 The license is available in the License.txt file in this GitHub repository.
 
-The lab solutions are available upon instructor request. If you would like to request solutions, find an issue, or have a suggestion, contact us [here](https://forms.office.com/r/00RBNtyyj2).
+The lab solutions are available upon instructor request. If you would like to request solutions, find an issue, or have a suggestion, contact us [here](https://www.mathworks.com/campaigns/surveys/mpc-virtual-lab-solution-request.html).
 
 Copyright 2023 The MathWorks, Inc.
