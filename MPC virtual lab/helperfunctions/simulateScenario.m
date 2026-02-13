@@ -10,7 +10,10 @@ road(scenario, roadCenters,'Lanes',lnspec);
 egoVehicle = vehicle(scenario,'ClassID',1,'Position',[0 0 0]);
 
 speed = 15;
-smoothTrajectory(egoVehicle,waypoints,speed)
+t = 1e-3; % choose 1e-3, 0.1, or 0.5 depending on scenario
+keep = [true; sqrt(sum(diff(waypoints).^2,2))>t];
+wpFiltered = waypoints(keep,:);
+smoothTrajectory(egoVehicle,wpFiltered,speed)
 
 plot(scenario);
 set(gcf, 'Visible','on')
@@ -27,4 +30,5 @@ ButtonH=uicontrol('Style','pushbutton',...
     end
 
 end
+
 
